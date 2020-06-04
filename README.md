@@ -12,8 +12,9 @@ npm install -g yarn
 ```
 - Download this repository or clone it
 ```
-https://github.com/DarshitJain04/ReactNative.git
-cd ReactNative
+https://github.com/DarshitJain04/Track.git
+
+cd Track
 ```
 - Launch `yarn` or `yarn install` command in a terminal opened in the project folder to install the necessary dependincies.
 - Start the project with
